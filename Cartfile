@@ -1,0 +1,12 @@
+#
+# IMPORTANT: Make sure to all frameworks including the non-DBS ones
+#
+# Otherwise the Carthage builds will fail with library not found errors
+#
+# Standard usage:
+# carthage update
+#
+
+
+github "revenuecat/purchases-ios"
+
